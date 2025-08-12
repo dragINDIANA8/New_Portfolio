@@ -118,7 +118,7 @@ a {
 }
 
 .home-info h1 {
-    font-size: 50px;
+    font-size: 40px;
     font-family: "Playwrite AU NSW", cursive;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -322,3 +322,4 @@ a {
         height: 65vw;
     }
 }
+
